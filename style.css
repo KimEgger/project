@@ -358,7 +358,12 @@ footer {
   padding: 1%;
 }
 
-
+.imagesss {
+  width: 42%;
+  margin: 3.5%;
+  border: solid 3px blueviolet;
+  transform: rotate(2deg);
+}
 
 .imagessss {
   width: 42%;
