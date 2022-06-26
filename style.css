@@ -315,7 +315,9 @@ nav .icon-burger .line {
   border: solid 3px blueviolet;
 }
 
-
+.for {
+  padding: 20%;
+}
 
 .submit {
   background-color: blueviolet;
