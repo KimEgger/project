@@ -311,7 +311,8 @@ nav .icon-burger .line {
 }
 
 .video {
-  padding: 100px 50px 10px 50px;
+  margin: 100px 50px 10px 50px;
+  border: solid 3px blueviolet;
 }
 
 .for {
