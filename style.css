@@ -1,5 +1,4 @@
-* {
-  margin: 0px;
+margin: 0px;
 }
 
 .containerr {
@@ -310,6 +309,11 @@ nav .icon-burger .line {
   text-decoration: none;
 }
 
+.video {
+  margin: 100px 50px 10px 50px;
+  border: solid 3px blueviolet;
+}
+
 .for {
   padding: 20%;
 }
@@ -318,6 +322,11 @@ nav .icon-burger .line {
   background-color: blueviolet;
 }
 
+.audioo {
+  margin-left: 2.5%;
+  margin-top: 2.5%;
+
+}
 
 .progress,
 .te {
@@ -343,4 +352,28 @@ footer {
   left: 0;
 }
 
+.imagess {
+  margin-top: 3%;
+  padding: 1%;
+}
 
+.imagesss {
+  width: 42%;
+  margin: 3.5%;
+  border: solid 3px blueviolet;
+  transform: rotate(2deg);
+}
+
+.imagessss {
+  width: 42%;
+  margin: 3.5%;
+  border: solid 3px blueviolet;
+  transform: rotate(-2deg);
+}
+
+.textee {
+  margin-bottom: 35%;
+  margin-top: 1%;
+  margin-left: 2.5%;
+  font-family: 'Montserrat', sans-serif;
+}
